@@ -16,3 +16,6 @@ Gameplay photos:
 
 
 Import the zipped file on Eclipse (JavaFX), run it, and start jackarooing!
+
+Contributers:  
+Zeina Abdelaal, Zeina Fawzy
