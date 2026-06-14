@@ -2,7 +2,7 @@
 
 Full-stack development of a fully interactive Jackaroo board game inspired by Arabic culture, with animated visuals, audio feedback, and user-friendly GUI. Built using Java and JavaFX.
 
-Gameplay photos:
+### Gameplay photos:
 
 <img width="1318" height="1018" alt="Screenshot 2025-05-28 192829" src="https://github.com/user-attachments/assets/009be93d-0e6b-4639-b80a-b40bb17b219a" />
 
@@ -13,7 +13,7 @@ Gameplay photos:
 <img width="1280" height="992" alt="1753208957454" src="https://github.com/user-attachments/assets/cdc9e02c-679e-49b8-bcab-bbf5a6d6be0a" />
 
 
-## Game Download
+### Game Download
 [Download Full Game ZIP] (https://drive.google.com/drive/folders/1hHIpE5mQ5GzuINKwQfkR0WZREBYjr5em?usp=sharing)
 
 
